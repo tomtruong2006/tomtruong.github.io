@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/tomtruong2006/tomtruong2006.github.io/sitemap.xml
+Sitemap: https://tomtruong2006.github.io/sitemap.xml

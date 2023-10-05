@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>My journal</title>
-    <link href="https://github.com/tomtruong2006/tomtruong2006.github.io/feed.xml" rel="self" />
-    <link href="https://github.com/tomtruong2006/tomtruong2006.github.io" />
+    <link href="https://tomtruong2006.github.io/feed.xml" rel="self" />
+    <link href="https://tomtruong2006.github.io" />
     <updated>2023-10-05T17:58:07+07:00</updated>
     <author>
         <name>Tom Truong</name>
     </author>
-    <id>https://github.com/tomtruong2006/tomtruong2006.github.io</id>
+    <id>https://tomtruong2006.github.io</id>
 
     <entry>
         <title>领薪水反而觉得愤怒</title>
         <author>
             <name>Tom Truong</name>
         </author>
-        <link href="https://github.com/tomtruong2006/tomtruong2006.github.io/ling-xin-shui-fan-er-jue-de-fen-nu.html"/>
-        <id>https://github.com/tomtruong2006/tomtruong2006.github.io/ling-xin-shui-fan-er-jue-de-fen-nu.html</id>
+        <link href="https://tomtruong2006.github.io/ling-xin-shui-fan-er-jue-de-fen-nu.html"/>
+        <id>https://tomtruong2006.github.io/ling-xin-shui-fan-er-jue-de-fen-nu.html</id>
 
         <updated>2023-10-05T17:58:07+07:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Tom Truong</name>
         </author>
-        <link href="https://github.com/tomtruong2006/tomtruong2006.github.io/bai-so-2.html"/>
-        <id>https://github.com/tomtruong2006/tomtruong2006.github.io/bai-so-2.html</id>
+        <link href="https://tomtruong2006.github.io/bai-so-2.html"/>
+        <id>https://tomtruong2006.github.io/bai-so-2.html</id>
 
         <updated>2023-10-05T15:26:09+07:00</updated>
             <summary>
@@ -55,8 +55,8 @@
         <author>
             <name>Tom Truong</name>
         </author>
-        <link href="https://github.com/tomtruong2006/tomtruong2006.github.io/hello-world.html"/>
-        <id>https://github.com/tomtruong2006/tomtruong2006.github.io/hello-world.html</id>
+        <link href="https://tomtruong2006.github.io/hello-world.html"/>
+        <id>https://tomtruong2006.github.io/hello-world.html</id>
 
         <updated>2023-10-05T15:05:49+07:00</updated>
             <summary>
@@ -68,7 +68,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9.jpg" height="1280" width="960" alt=""  sizes="100vw" srcset="https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-xs.jpg 300w ,https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-sm.jpg 480w ,https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-md.jpg 768w ,https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-lg.jpg 1024w ,https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-xl.jpg 1360w ,https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-2xl.jpg 1600w">
+      <img loading="lazy" src="https://tomtruong2006.github.io/media/posts/1/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9.jpg" height="1280" width="960" alt=""  sizes="100vw" srcset="https://tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-xs.jpg 300w ,https://tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-sm.jpg 480w ,https://tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-md.jpg 768w ,https://tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-lg.jpg 1024w ,https://tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-xl.jpg 1360w ,https://tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-2xl.jpg 1600w">
       
     </figure>
 

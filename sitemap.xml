@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/tomtruong2006/tomtruong2006.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://tomtruong2006.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/tomtruong2006/tomtruong2006.github.io/</loc>
+<loc>https://tomtruong2006.github.io/</loc>
 </url>
 <url>
-<loc>https://github.com/tomtruong2006/tomtruong2006.github.io/bai-so-2.html</loc>
+<loc>https://tomtruong2006.github.io/bai-so-2.html</loc>
 <lastmod>2023-10-05T15:26:09+07:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/tomtruong2006/tomtruong2006.github.io/hello-world.html</loc>
+<loc>https://tomtruong2006.github.io/hello-world.html</loc>
 <lastmod>2023-10-05T15:05:49+07:00</lastmod>
 <image:image>
-<image:loc>https://github.com/tomtruong2006/tomtruong2006.github.io/media/posts/1/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9.jpg</image:loc>
+<image:loc>https://tomtruong2006.github.io/media/posts/1/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://github.com/tomtruong2006/tomtruong2006.github.io/ling-xin-shui-fan-er-jue-de-fen-nu.html</loc>
+<loc>https://tomtruong2006.github.io/ling-xin-shui-fan-er-jue-de-fen-nu.html</loc>
 <lastmod>2023-10-05T17:58:07+07:00</lastmod>
 </url>
 </urlset>
