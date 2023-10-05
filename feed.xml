@@ -3,19 +3,39 @@
     <title>My journal</title>
     <link href="https://tomtruong2006.github.io/tomtruong2006.github.io/feed.xml" rel="self" />
     <link href="https://tomtruong2006.github.io/tomtruong2006.github.io" />
-    <updated>2023-10-05T15:05:49+07:00</updated>
+    <updated>2023-10-05T15:26:09+07:00</updated>
     <author>
         <name>Tom Truong</name>
     </author>
     <id>https://tomtruong2006.github.io/tomtruong2006.github.io</id>
 
     <entry>
+        <title>Bài số 2</title>
+        <author>
+            <name>Tom Truong</name>
+        </author>
+        <link href="https://tomtruong2006.github.io/tomtruong2006.github.io/bai-so-2.html"/>
+        <id>https://tomtruong2006.github.io/tomtruong2006.github.io/bai-so-2.html</id>
+
+        <updated>2023-10-05T15:26:09+07:00</updated>
+            <summary>
+                <![CDATA[
+                    I've just updated some new kind of thing for you.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've just updated some new kind of thing for you.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Hello world</title>
         <author>
             <name>Tom Truong</name>
         </author>
-        <link href="https://tomtruong2006.github.io/tomtruong2006.github.io/hello-world/"/>
-        <id>https://tomtruong2006.github.io/tomtruong2006.github.io/hello-world/</id>
+        <link href="https://tomtruong2006.github.io/tomtruong2006.github.io/hello-world.html"/>
+        <id>https://tomtruong2006.github.io/tomtruong2006.github.io/hello-world.html</id>
 
         <updated>2023-10-05T15:05:49+07:00</updated>
             <summary>
