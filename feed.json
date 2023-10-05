@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My journal",
+    "description": "",
+    "home_page_url": "https://tomtruong2006.github.io/tomtruong2006.github.io",
+    "feed_url": "https://tomtruong2006.github.io/tomtruong2006.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tom Truong"
+    },
+    "items": [
+        {
+            "id": "https://tomtruong2006.github.io/tomtruong2006.github.io/hello-world/",
+            "url": "https://tomtruong2006.github.io/tomtruong2006.github.io/hello-world/",
+            "title": "Hello world",
+            "summary": "Bộ sản phẩm ngọc trai tuyệt đẹp mới nhất từ HGP",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://tomtruong2006.github.io/tomtruong2006.github.io/media/posts/1/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9.jpg\" height=\"1280\" width=\"960\" alt=\"\"  sizes=\"100vw\" srcset=\"https://tomtruong2006.github.io/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-xs.jpg 300w ,https://tomtruong2006.github.io/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-sm.jpg 480w ,https://tomtruong2006.github.io/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-md.jpg 768w ,https://tomtruong2006.github.io/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-lg.jpg 1024w ,https://tomtruong2006.github.io/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-xl.jpg 1360w ,https://tomtruong2006.github.io/tomtruong2006.github.io/media/posts/1/responsive/0-02-02-05e8575e428d05dd3cde5e70711795abcc90b84c474c5485a2d1a06aa7a5b4ce_bcde3f0f1febf3f9-2xl.jpg 1600w\">\n      \n    </figure>\n\n  <p>\n    Bộ sản phẩm ngọc trai tuyệt đẹp mới nhất từ HGP\n  </p>",
+            "author": {
+                "name": "Tom Truong"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-05T15:05:49+07:00",
+            "date_modified": "2023-10-05T15:05:49+07:00"
+        }
+    ]
+}
